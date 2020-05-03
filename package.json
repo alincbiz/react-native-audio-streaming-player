@@ -1,22 +1,23 @@
 {
-  "name": "react-native-audio-streaming-player",
-  "description": "An audio streaming player for React Native",
-  "main": "index.js",
-  "author": "Hunkyo Jung <hunkyo.jung@gmail.com>",
-  "version": "0.1.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kyo504/react-native-audio-streaming-player.git"
-  },
-  "keywords": [
-    "react-native",
-    "ios",
-    "android",
-    "streaming",
-    "player"
-  ],
-  "homepage": "https://github.com/kyo504/react-native-audio-streaming-player#readme"
+    "name": "react-native-audio-streaming-player",
+    "description": "An audio streaming player for React Native",
+    "main": "index.js",
+    "author": "alincbiz",
+    "version": "0.1.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alincbiz/react-native-audio-streaming-player.git"
+    },
+    "keywords": [
+        "react-native",
+        "ios",
+        "android",
+        "streaming",
+        "player"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/alincbiz/react-native-audio-streaming-player#readme"
 }
